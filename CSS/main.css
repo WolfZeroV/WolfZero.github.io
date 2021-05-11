@@ -51,6 +51,7 @@ header #menu ul #logo{
 #main-container header main div{
     display: inline-block;
     vertical-align: middle;
+
 }
 #main-container header main .text h1{
     font-size: 80px;
@@ -61,7 +62,10 @@ header #menu ul #logo{
 }
 #main-container header main .image{
     text-align: right;
-    width: 500px;
+    width: 70px;
+    top: -4px;
+    left: 20px
+   
 
 }
 
