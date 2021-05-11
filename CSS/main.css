@@ -45,7 +45,8 @@ header #menu ul #logo{
 /* *************************************************** */
 #main-container header main{
     margin: 0 auto;
-    width: 1400px;
+    width: 80%;
+    max-width: 1000px;
 }
 #main-container header main div{
     display: inline-block;
